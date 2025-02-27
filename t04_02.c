@@ -12,7 +12,8 @@ int main(int _argv, char **_argc) {
   printf ("%03d", string[i]);
   }
 
-printf("013\n");
-  
-  return 0;
+printf("013");
+
+return 0;
+
 }
